@@ -1,5 +1,5 @@
 # Web chat application
-A simple web chat application implemented using Node.js, html, CSS, jQuery, Bootstrap and mongoDB.
+A simple web chat application implemented using Node.js, html, CSS, jQuery, Bootstrap. Message histories are stored in MongoDB with mLab online service.
 
 ## Demo
 <br>
